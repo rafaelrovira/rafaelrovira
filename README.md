@@ -16,10 +16,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <a href="https://twitter.com/rafiithabr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/rafithabr/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/rafael-rovira-47b800127/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:rafaelrovira2010@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/rafiithabr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/twitter-circled.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/rafithabr/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/instagram-new.png"" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/rafael-rovira-47b800127/" target="_blank" rel="noopener noreferrer"><img <img src="https://img.icons8.com/nolan/64/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:rafaelrovira2010@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/email.png"  width="50" /></a>
 </p>
 
 
