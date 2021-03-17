@@ -5,7 +5,7 @@
 
 - 🌎 &nbsp; Living in Brazil
 - 🤔 &nbsp; I’m currently learning PHP | Full Stack development
-- 🎓 &nbsp; I’m currently an student at Impacta University
+- 🎓 &nbsp; I’m currently an student at [Impacta](https://www.impacta.com.br) University
 - 💬 &nbsp; Ask me about anything. I will try to help you as much as I can.
 
 <h3>🛠 Tech Stack</h3>
