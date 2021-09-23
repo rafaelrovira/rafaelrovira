@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | HTML | CSS | Python  
+- 💻 &nbsp; PHP | HTML | CSS | Python | Amazon AWS | SQL  
 
 
 <h3> 🤝🏻 Connect with Me </h3>
