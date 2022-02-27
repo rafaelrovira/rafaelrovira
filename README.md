@@ -4,13 +4,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🌎 &nbsp; Living in Brazil
-- 🤔 &nbsp; I’m currently learning Python | Full Stack development
+- 🤔 &nbsp; I’m currently learning Python | Data engineer at SPC Brasil
 - 🎓 &nbsp; I’m currently an student at [Impacta](https://www.impacta.com.br) University
 - 💬 &nbsp; Ask me about anything. I will try to help you as much as I can.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | HTML | CSS | Python | Amazon AWS | SQL  
+- 💻 &nbsp; PHP | HTML | CSS | Python | Amazon AWS | SQL | Kotlin | Scala | Apache Nifi 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
