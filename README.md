@@ -1,32 +1,82 @@
-<h2> Hey there! I'm Rafael. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Rafael 👋</h2>
 
+<p>
+Data Engineer with hands-on experience building and maintaining large-scale data pipelines in production environments.
+</p>
+
+---
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌎 &nbsp; Living in Brazil
-- 🤔 &nbsp; I’m currently learning Python
-- 👨‍💻 &nbsp; Data engineer intern at [SPC Brasil](https://www.spcbrasil.org.br/home)
-- 🎓 &nbsp; I’m currently an student at [Impacta](https://www.impacta.com.br) University
-- 💬 &nbsp; Ask me about anything. I will try to help you as much as I can.
+- 🌎 &nbsp; Based in São Paulo, Brazil  
+- 👨‍💻 &nbsp; Data Engineer / Machine Learning Engineer
+- 🎓 &nbsp; MBA in Data Engineering – Impacta Technology (in progress)  
+- 🎓 &nbsp; Bachelor in Systems Analysis and Development – Impacta Technology  
+- 🚀 &nbsp; Experience with large-scale data processing (+50M records/day)  
+- 💬 &nbsp; Passionate about data pipelines, distributed systems and continuous learning  
+
+---
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | Python | Amazon AWS | SQL | Kotlin | Scala | Apache Nifi 
+**Languages**
+- Python | Scala | SQL  
 
+**Big Data & Processing**
+- Apache Spark | Hadoop  
+
+**Orchestration**
+- Apache Airflow | Prefect  
+
+**Cloud & Infrastructure**
+- AWS (EMR, Glue, S3, EC2) | Docker | Spot.io  
+
+**Databases**
+- PostgreSQL | MySQL  
+
+**Data & ML**
+- Credit Scoring Models | Data Quality | ML Pipelines  
+
+**DevOps / DataOps**
+- Git | GitHub | Linux  
+
+---
+
+<h3>📌 What I Work With</h3>
+
+- Building and maintaining **production-grade Spark pipelines**
+- Processing **millions of records daily** for credit decision systems
+- Designing **reliable, scalable and cost-efficient data architectures**
+- Supporting **Machine Learning pipelines**, from data preparation to production
+- Optimizing cloud workloads for **performance and cost reduction**
+
+---
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <a href="https://www.instagram.com/rafithabr/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/instagram-new.png"" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/rafael-rovira-47b800127/" target="_blank" rel="noopener noreferrer"><img <img src="https://img.icons8.com/nolan/64/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:rafaelrovira2010@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/email.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/rafael-rovira/" target="_blank">
+<img src="https://img.icons8.com/nolan/64/linkedin.png" width="50"/>
+</a>  
+&nbsp; <a href="https://github.com/rafaelrovira" target="_blank">
+<img src="https://img.icons8.com/nolan/64/github.png" width="50"/>
+</a>  
+&nbsp; <a href="mailto:rafaelrovira2010@hotmail.com" target="_blank">
+<img src="https://img.icons8.com/nolan/64/email.png" width="50"/>
+</a>
 </p>
 
+---
 
-### Stats ✨
-<center>
+### 📊 GitHub Stats
+
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrovira&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelrovira&theme=radical&show_icons=true" /></td>
-  </tr>  
+    <td>
+      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrovira&layout=compact&theme=radical"/>
+    </td>
+    <td>
+      <img width="440px" src="https://github-readme-stats.vercel.app/api?username=rafaelrovira&theme=radical&show_icons=true"/>
+    </td>
+  </tr>
+</table>
