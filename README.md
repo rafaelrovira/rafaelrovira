@@ -10,7 +10,7 @@ Data Engineer with hands-on experience building and maintaining large-scale data
 
 - 🌎 &nbsp; Based in São Paulo, Brazil  
 - 👨‍💻 &nbsp; Data Engineer / Machine Learning Engineer
-- 🎓 &nbsp; MBA in Data Engineering – Impacta Technology (in progress)  
+- 🎓 &nbsp; MBA in Data Engineering – Impacta Technology
 - 🎓 &nbsp; Bachelor in Systems Analysis and Development – Impacta Technology  
 - 🚀 &nbsp; Experience with large-scale data processing (+50M records/day)  
 - 💬 &nbsp; Passionate about data pipelines, distributed systems and continuous learning  
