@@ -58,25 +58,4 @@ Data Engineer with hands-on experience building and maintaining large-scale data
 &nbsp; <a href="https://www.linkedin.com/in/rafael-rovira/" target="_blank">
 <img src="https://img.icons8.com/nolan/64/linkedin.png" width="50"/>
 </a>  
-&nbsp; <a href="https://github.com/rafaelrovira" target="_blank">
-<img src="https://img.icons8.com/nolan/64/github.png" width="50"/>
-</a>  
-&nbsp; <a href="mailto:rafaelrovira2010@hotmail.com" target="_blank">
-<img src="https://img.icons8.com/nolan/64/email.png" width="50"/>
-</a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrovira&layout=compact&theme=radical"/>
-    </td>
-    <td>
-      <img width="440px" src="https://github-readme-stats.vercel.app/api?username=rafaelrovira&theme=radical&show_icons=true"/>
-    </td>
-  </tr>
-</table>
