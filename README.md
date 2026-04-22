@@ -52,10 +52,3 @@ Data Engineer with hands-on experience building and maintaining large-scale data
 
 ---
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="left">
-&nbsp; <a href="https://www.linkedin.com/in/rafael-rovira/" target="_blank">
-<img src="https://img.icons8.com/nolan/64/linkedin.png" width="50"/>
-</a>  
-</p>
