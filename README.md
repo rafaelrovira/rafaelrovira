@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Rafael 👋</h2>
 
 <p>
-Data Engineer with hands-on experience building and maintaining large-scale data pipelines in production environments.
+Data Engineer and Ml Engineer with hands-on experience building and maintaining large-scale data pipelines in production environments.
 </p>
 
 ---
