@@ -8,7 +8,6 @@ Data Engineer and Ml Engineer with hands-on experience building and maintaining 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌎 &nbsp; Based in São Paulo, Brazil  
 - 👨‍💻 &nbsp; Data Engineer / Machine Learning Engineer
 - 🎓 &nbsp; MBA in Data Engineering – Impacta Technology
 - 🎓 &nbsp; Bachelor in Systems Analysis and Development – Impacta Technology  
